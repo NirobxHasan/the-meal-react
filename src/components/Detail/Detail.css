@@ -1,0 +1,12 @@
+.detail-section{
+    padding: 10px;
+}
+.meal-info{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+.title{
+    color: rgb(184, 0, 0);
+    font-weight: 600;
+}
